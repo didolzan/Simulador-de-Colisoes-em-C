@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1764816548 source:c:\users\t-gamer\documents\programas em c\colisões\testecolisiões.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"raylib.h"
+
+1764619881 c:\users\t-gamer\documents\programas em c\colisões\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1764816548 source:c:\users\t-gamer\documents\programas em c\colisões\simulador colisões.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"raylib.h"
+
